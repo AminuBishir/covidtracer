@@ -73,5 +73,5 @@ The MAPS_API_KEY for the Google Maps SDK for Android (<b>MAPS_API_KEY=mapsapikey
     }
     ```
     
-### Credits
-- https://github.com/nicolaa5 - for refactoring the code and adding the location information
+### Fork of contact tracing project
+Project based on Alexander Drumeterez's covidtracer
